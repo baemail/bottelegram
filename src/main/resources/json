@@ -1,0 +1,15 @@
+{
+	"result": "success",
+	"documentation": "https://www.exchangerate-api.com/docs",
+	"terms_of_use": "https://www.exchangerate-api.com/terms",
+	"time_zone": "UTC",
+	"time_last_update": 1586131201,
+	"time_next_update": 1586217721,
+	"base": "KZT",
+	"conversion_rate":
+	{
+	"EUR":0.002066,
+	"RUB":0.1742,
+    "USD":0.002239
+	}
+}
